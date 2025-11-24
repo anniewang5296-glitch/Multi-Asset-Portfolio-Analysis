@@ -2,7 +2,7 @@
 
 📈 A comprehensive quantitative analysis framework for high net-worth investor portfolios, designed for moderate risk tolerance and regular income generation. This project provides rigorous performance evaluation, risk assessment, and attribution analysis for wealth management applications. 
 
-## Overview
+## 🎯 Overview
 The portfolio is structured to deliver consistent returns through a diversified multi-asset allocation strategy, combining equities, fixed income, and alternative investments across US and UK markets. This approach balances the need for income generation through dividend-paying equities and fixed income securities, while providing growth potential through core equity holdings and strategic satellite positions. The moderate risk profile is achieved through diversification across asset classes, geographic regions, and investment styles, with careful attention to volatility management and downside protection. Detailed compositions of the portfolio are as follow:
 
 - **Equities (55%)**: Core equity holdings, dividend-focused strategies, and satellite positions including ESG and emerging market exposure. The emphasis on dividend-paying equities supports the income generation objective while maintaining growth potential.
@@ -13,7 +13,7 @@ The portfolio is structured to deliver consistent returns through a diversified 
 
 The analysis framework provides rigorous performance evaluation through multiple lenses: comprehensive risk-adjusted return metrics, detailed attribution analysis identifying key performance drivers, and benchmark comparison against appropriate market indices. **Forward-looking projections based on institutional capital market assumptions enable strategic portfolio planning, while scenario analysis offers insights into potential outcomes under different market conditions**. This quantitative approach supports evidence-based investment decision-making for sophisticated investors seeking both income stability and capital appreciation.
 
-## Features
+## ✨ Features
 
 ### 1. Data Management
 - Automated data fetching from Yahoo Finance
